@@ -1,0 +1,16 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" fill="#0B1020"/>
+  <circle cx="1080" cy="70" r="220" fill="#4F46E5" fill-opacity="0.18"/>
+  <circle cx="980" cy="280" r="170" fill="#2563EB" fill-opacity="0.15"/>
+  <circle cx="180" cy="40" r="160" fill="#7C3AED" fill-opacity="0.12"/>
+  <rect x="48" y="48" width="1184" height="264" rx="24" fill="#11182D" stroke="#24314F"/>
+  <text x="80" y="130" fill="#E8ECF3" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">Rosie Val</text>
+  <text x="80" y="176" fill="#9FB0D1" font-size="24" font-family="Arial, Helvetica, sans-serif">Independent AI Safety Researcher • LLM Evaluations • Agent Reliability</text>
+  <text x="80" y="235" fill="#C7D2FE" font-size="18" font-family="Arial, Helvetica, sans-serif">AI safety • LLM evaluations • agent reliability • reproducible research</text>
+  <rect x="80" y="260" width="180" height="34" rx="17" fill="#1E293B" stroke="#334155"/>
+  <text x="103" y="282" fill="#BFDBFE" font-size="16" font-family="Arial, Helvetica, sans-serif">Open Research</text>
+  <rect x="275" y="260" width="150" height="34" rx="17" fill="#1E293B" stroke="#334155"/>
+  <text x="305" y="282" fill="#DDD6FE" font-size="16" font-family="Arial, Helvetica, sans-serif">Safety Evals</text>
+  <rect x="440" y="260" width="172" height="34" rx="17" fill="#1E293B" stroke="#334155"/>
+  <text x="472" y="282" fill="#93C5FD" font-size="16" font-family="Arial, Helvetica, sans-serif">Agent Benchmarks</text>
+</svg>
